@@ -4,4 +4,4 @@ Werkzeug==0.12.2
 numpy==1.12.1
 fuzzywuzzy==0.15.1
 PyMySQL==0.7.11
-requests==2.11.1
+requests==2.20.0
